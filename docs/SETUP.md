@@ -4,7 +4,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/lamauspex/CSV-Performance-Reporter/tree/master
+git clone https://github.com/lamauspex/test_task-CSV-Performance-Reporter
 ```
 
 2. Установите зависимости:
